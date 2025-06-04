@@ -17,7 +17,7 @@ Keluaran dari proyek ini adalah hasil prediksi `Market Capitalization` yang dapa
 Proyek ini menggunakan dataset dari [Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/esg-and-financial-performance-dataset/data). Data berisi tentang informasi keuangan dan kinerja ESG (_Environmental_, _Social_, dan _Governance_) pada 11.000 perusahaan dengan 9 jenis industri dan 7 wilayah sejak tahun 2015 s.d. 2025.
 
 ## Method
-Proyek ini mengenai machine learning sehingga metode yang dipakai adalah model supervised learning - regression dengan model ``
+Proyek ini mengenai machine learning sehingga metode yang dipakai adalah model supervised learning - regression dengan model `RandomForest`
 
 ## Stacks
 Bahasa pemrograman: Python
